@@ -8,6 +8,7 @@
 ## Contacts me at:
 - Email: nghuutien0912@gmail.com
 - Facebook: [Nguyen Huu Tien](https://www.facebook.com/TienNg21/)
+- LinkedIn: [Nguyen Huu Tien](https://www.linkedin.com/in/tienng21/)
 
 ## Development stats:
 ![ProfileView](https://komarev.com/ghpvc/?username=TienNg21&color=brightgreen)
