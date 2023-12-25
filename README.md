@@ -2,7 +2,6 @@
 <!-- ![](https://c.tenor.com/UgacRON-nWAAAAAd/delete-my-computer-omg.gif) -->
 
 ## Hiiiiiiii 👋👋👋👋👋!
-- 🔭 I'm a student at [Hanoi University of Science and Technology](https://www.hust.edu.vn/).
 - ✨ Now I'm trying to create useful projects.
 
 ## Contacts me at:
