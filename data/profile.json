@@ -1,0 +1,19 @@
+{
+    "socials": [
+        {
+            "name": "LinkedIn",
+            "icon": "linkedin",
+            "url": "https://www.linkedin.com/in/tienng21/"
+        },
+        {
+            "name": "GitHub",
+            "icon": "github",
+            "url": "https://github.com/TienNg21"
+        },
+        {
+            "name": "X",
+            "icon": "x",
+            "url": "https://x.com/tienng21"
+        }
+    ]
+}
