@@ -14,6 +14,16 @@
             "name": "X",
             "icon": "x",
             "url": "https://x.com/tienng21"
+        },
+        {
+            "name": "LeetCode",
+            "icon": "leetcode",
+            "url": "https://leetcode.com/TienNg21/"
+        },
+        {
+            "name": "Instagram",
+            "icon": "instagram",
+            "url": "https://www.instagram.com/tienng21_/"
         }
     ]
 }
