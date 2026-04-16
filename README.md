@@ -1,21 +1,141 @@
-![](https://c.tenor.com/gSfixE9nP7EAAAAC/cat-type.gif)
-<!-- ![](https://c.tenor.com/UgacRON-nWAAAAAd/delete-my-computer-omg.gif) -->
+<div align="center">
 
-## Hiiiiiiii 👋👋👋👋👋!
-- ✨ Now I'm trying to create useful projects.
+[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:1a0033,50:3d0066,100:6600cc&height=200&section=header&text=Tien%20Nguyen&fontSize=60&fontColor=ffffff&fontAlignY=55&desc=Full-Stack%20Engineer&descAlignY=75&descSize=20&animation=fadeIn)](https://tienng21.com)
 
-## Contacts me at:
-- Email: nghuutien0912@gmail.com
-- Facebook: [Nguyen Huu Tien](https://www.facebook.com/TienNg21/)
-- LinkedIn: [Nguyen Huu Tien](https://www.linkedin.com/in/tienng21/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I%27m+Tien+Nguyen;Full-Stack+Software+Engineer;Vue+%2F+Nuxt+%2F+Next.js+%2F+React;NestJS+%2F+Golang+%2F+Python;AWS+%2F+GCP+%2F+Docker;Building+reliable+%26+scalable+apps+%F0%9F%9A%80)](https://tienng21.com)
 
-## Development stats:
-![ProfileView](https://komarev.com/ghpvc/?username=TienNg21&color=brightgreen)
+<p>
+  Passionate software engineer crafting reliable, scalable web applications.<br/>
+  I love clean architecture, performance optimization, and shipping things that matter.
+</p>
 
-![NguyenHuuTien's GitHub stats](https://github-readme-stats.vercel.app/api?username=TienNg21&count_private=true&theme=dracula&show_icons=true)
+[![Website](https://img.shields.io/badge/tienng21.com-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tienng21.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=TienNg21&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/TienNg21)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TienNg21&layout=compact&theme=dracula&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-<!---
-TienNg21/TienNg21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,ts,js,html,css,tailwind&perline=9)](https://skillicons.dev)
+
+**Backend**
+
+[![My Skills](https://skillicons.dev/icons?i=nestjs,express,go,python,nodejs&perline=9)](https://skillicons.dev)
+
+**Database & Search**
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,elasticsearch&perline=9)](https://skillicons.dev)
+
+**Cloud & DevOps**
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github&perline=9)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TienNg21&theme=dracula&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TienNg21&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=A855F7&icon_color=ec4899&text_color=ffffff" height="180" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.demolab.com?user=TienNg21&theme=radical&hide_border=true&background=0d0d1a&ring=A855F7&fire=ec4899&currStreakLabel=A855F7" height="180" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TienNg21&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=A855F7&text_color=ffffff&langs_count=10" height="160" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TienNg21&theme=tokyo-night&bg_color=0d0d1a&color=A855F7&line=ec4899&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TienNg21/TienNg21/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TienNg21/TienNg21/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/TienNg21/TienNg21/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+> ⚠️ Snake requires a one-time [GitHub Action setup](https://github.com/Platane/snk) — add `.github/workflows/snake.yml` to generate the SVG on a schedule.
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=TienNg21&repo=REPO_NAME_1&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=A855F7&icon_color=ec4899&text_color=ffffff)](https://github.com/TienNg21)
+&nbsp;&nbsp;
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=TienNg21&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=A855F7&icon_color=ec4899&text_color=ffffff)](https://github.com/TienNg21)
+
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=TienNg21&repo=REPO_NAME_3&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=A855F7&icon_color=ec4899&text_color=ffffff)](https://github.com/TienNg21)
+
+> 📝 Replace `REPO_NAME_1/2/3` above with your actual public repo names.
+
+</div>
+
+---
+
+## 😂 Dev Joke of the Day
+
+<div align="center">
+
+[![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula&hideBorder)](https://github.com/ABSphreak/readme-jokes)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-tienng21.com-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tienng21.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tien%20Nguyen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tienng21/)
+[![X](https://img.shields.io/badge/X-@tienng21-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tienng21)
+[![LeetCode](https://img.shields.io/badge/LeetCode-TienNg21-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/TienNg21/)
+[![Instagram](https://img.shields.io/badge/Instagram-@tienng21__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tienng21_/)
+[![Facebook](https://img.shields.io/badge/Facebook-Nguyen%20Huu%20Tien-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/TienNg21/)
+[![Email](https://img.shields.io/badge/Email-nghuutien0912@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nghuutien0912@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:6600cc,50:3d0066,100:1a0033&height=100&section=footer&animation=fadeIn)](https://tienng21.com)
+
+</div>
