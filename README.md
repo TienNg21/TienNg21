@@ -34,33 +34,12 @@
 
 **Cloud & DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github&perline=9)](https://skillicons.dev)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=TienNg21&theme=dracula&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TienNg21&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=A855F7&icon_color=ec4899&text_color=ffffff" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.demolab.com?user=TienNg21&theme=radical&hide_border=true&background=0d0d1a&ring=A855F7&fire=ec4899&currStreakLabel=A855F7" height="180" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TienNg21&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=A855F7&text_color=ffffff&langs_count=10" height="160" alt="Top Languages"/>
+<img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="40" alt="AWS"/>&nbsp;
+<img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" alt="GCP"/>&nbsp;
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker"/>&nbsp;
+<img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux"/>&nbsp;
+<img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git"/>&nbsp;
+<img src="https://cdn.simpleicons.org/github/ffffff" height="40" alt="GitHub"/>
 
 </div>
 
@@ -87,32 +66,6 @@
 </picture>
 
 > ⚠️ Snake requires a one-time [GitHub Action setup](https://github.com/Platane/snk) — add `.github/workflows/snake.yml` to generate the SVG on a schedule.
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=TienNg21&repo=REPO_NAME_1&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=A855F7&icon_color=ec4899&text_color=ffffff)](https://github.com/TienNg21)
-&nbsp;&nbsp;
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=TienNg21&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=A855F7&icon_color=ec4899&text_color=ffffff)](https://github.com/TienNg21)
-
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=TienNg21&repo=REPO_NAME_3&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=A855F7&icon_color=ec4899&text_color=ffffff)](https://github.com/TienNg21)
-
-> 📝 Replace `REPO_NAME_1/2/3` above with your actual public repo names.
-
-</div>
-
----
-
-## 😂 Dev Joke of the Day
-
-<div align="center">
-
-[![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula&hideBorder)](https://github.com/ABSphreak/readme-jokes)
 
 </div>
 
