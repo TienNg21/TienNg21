@@ -34,12 +34,7 @@
 
 **Cloud & DevOps**
 
-<img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="40" alt="AWS"/>&nbsp;
-<img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" alt="GCP"/>&nbsp;
-<img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker"/>&nbsp;
-<img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux"/>&nbsp;
-<img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git"/>&nbsp;
-<img src="https://cdn.simpleicons.org/github/ffffff" height="40" alt="GitHub"/>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github&perline=9)](https://skillicons.dev)
 
 </div>
 
