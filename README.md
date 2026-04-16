@@ -34,7 +34,7 @@
 
 **Cloud & DevOps**
 
-<img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="40" alt="AWS"/>&nbsp;
+<img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="40" alt="AWS"/>&nbsp;
 <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" alt="GCP"/>&nbsp;
 <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker"/>&nbsp;
 <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux"/>&nbsp;
@@ -64,8 +64,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TienNg21/TienNg21/output/github-contribution-grid-snake.svg"/>
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/TienNg21/TienNg21/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
-
-> ⚠️ Snake requires a one-time [GitHub Action setup](https://github.com/Platane/snk) — add `.github/workflows/snake.yml` to generate the SVG on a schedule.
 
 </div>
 
