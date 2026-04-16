@@ -34,7 +34,7 @@
 
 **Cloud & DevOps**
 
-<img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="40" alt="AWS"/>&nbsp;
+<img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="40" alt="AWS"/>&nbsp;
 <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" alt="GCP"/>&nbsp;
 <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker"/>&nbsp;
 <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux"/>&nbsp;
@@ -50,20 +50,6 @@
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TienNg21&theme=tokyo-night&bg_color=0d0d1a&color=A855F7&line=ec4899&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TienNg21/TienNg21/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TienNg21/TienNg21/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/TienNg21/TienNg21/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
 
 </div>
 
