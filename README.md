@@ -3,7 +3,7 @@
 
 ### Hi there 👋 I'm Tien Nguyen
 
-**Full-Stack Software Engineer** · Vue · Nuxt · Next.js · NestJS · Golang · Python · AWS
+**Full-Stack Software Engineer**
 
 <p>
   Software engineer with 3+ years building reliable, scalable web applications.<br/>
@@ -44,11 +44,6 @@
 <div align="center">
 
 <!-- transparent theme = blends into BOTH light and dark backgrounds -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TienNg21&show_icons=true&hide_border=true&theme=transparent&icon_color=A855F7&title_color=A855F7&text_color=808080&count_private=true" alt="Tien's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TienNg21&layout=compact&hide_border=true&theme=transparent&title_color=A855F7&text_color=808080&langs_count=8" alt="Top languages" />
-
-<br/>
-
 <img height="165" src="https://streak-stats.demolab.com?user=TienNg21&hide_border=true&background=00000000&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=808080&dates=808080&currStreakNum=808080&sideNums=808080&stroke=808080" alt="GitHub streak" />
 
 </div>
