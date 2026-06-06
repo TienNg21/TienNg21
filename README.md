@@ -1,14 +1,16 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<!-- Theme-adaptive header banner: light vs dark -->
+<!-- Theme-adaptive header banner: static (no animation), light vs dark -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:3d0066,100:6600cc&height=180&section=header&text=Tien%20Nguyen&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Software%20Engineer&descAlignY=62&descSize=18&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:c084fc,100:e9d5ff&height=180&section=header&text=Tien%20Nguyen&fontSize=52&fontColor=4c1d95&fontAlignY=40&desc=Full-Stack%20Software%20Engineer&descAlignY=62&descSize=18&animation=fadeIn">
-  <img alt="Tien Nguyen — Full-Stack Software Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:3d0066,100:6600cc&height=180&section=header&text=Tien%20Nguyen&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Software%20Engineer&descAlignY=62&descSize=18&animation=fadeIn">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:1a0033,50:3d0066,100:6600cc&height=160&section=header&text=Tien%20Nguyen&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Software%20Engineer&descAlignY=68&descSize=18">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,50:c084fc,100:e9d5ff&height=160&section=header&text=Tien%20Nguyen&fontSize=50&fontColor=4c1d95&fontAlignY=45&desc=Full-Stack%20Software%20Engineer&descAlignY=68&descSize=18">
+  <img alt="Tien Nguyen — Full-Stack Software Engineer" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0033,50:3d0066,100:6600cc&height=160&section=header&text=Tien%20Nguyen&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Software%20Engineer&descAlignY=68&descSize=18">
 </picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I%27m+Tien+Nguyen;Full-Stack+Software+Engineer;Vue+%2F+Nuxt+%2F+Next.js+%2F+React;NestJS+%2F+Golang+%2F+Python;AWS+%2F+GCP+%2F+Docker;Building+reliable+%26+scalable+apps+%F0%9F%9A%80)](https://tienng21.com)
+### Hi there 👋 I'm Tien Nguyen
+
+**Full-Stack Software Engineer** · Vue · Nuxt · Next.js · NestJS · Golang · Python · AWS
 
 <p>
   Software engineer with 3+ years building reliable, scalable web applications.<br/>
@@ -91,9 +93,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6600cc,50:3d0066,100:1a0033&height=100&section=footer&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e9d5ff,50:c084fc,100:a855f7&height=100&section=footer&animation=fadeIn">
-  <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:6600cc,50:3d0066,100:1a0033&height=100&section=footer&animation=fadeIn">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:6600cc,50:3d0066,100:1a0033&height=80&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:e9d5ff,50:c084fc,100:a855f7&height=80&section=footer">
+  <img alt="footer" src="https://capsule-render.vercel.app/api?type=rect&color=0:6600cc,50:3d0066,100:1a0033&height=80&section=footer">
 </picture>
 
 <sub>⭐ Thanks for visiting — let's build something great together!</sub>
